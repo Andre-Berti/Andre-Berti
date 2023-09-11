@@ -1,6 +1,6 @@
 # BIOGRAFIA
 
-- 👋 Olá, meu nome é @Andre-Berti
+- 👋 Olá, meu nome é Andre Dudu Berti
 - 👍 Meu email de contato é andre.berti@escola.pr.gov.br
 - ⚽ Corinthians. 
 - 👀 Estou interessado em aprender novas linguagens de programação.
