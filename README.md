@@ -3,12 +3,16 @@
 - 👋 Olá, meu nome é @Andre-Berti
 - 👍 Meu email de contato é andre.berti@escola.pr.gov.br
 - ⚽ Corinthians. 
-- 👀 Esou interessado em aprender novas linguagens de programação.
+- 👀 Estou interessado em aprender novas linguagens de programação.
+- 📖 Atualmente estou estudando na [Alura](https://www.alura.com.br)
 - 🎓 Engenheiro de produção.
+- 🎓 Matemática.
 - 🎤 Cantor sertanejo.
 - 📘 Professor.
+  
+![](https://media.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif)
 
 <!---
-Andre-Berti/Andre-Berti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+site do gif - https://tenor.com/pt-BR/
+
 --->
