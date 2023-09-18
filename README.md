@@ -5,7 +5,7 @@
 - ⚽ Corinthians. 
 - 👀 Estou interessado em aprender novas linguagens de programação.
 - 📖 Atualmente estou estudando na [Alura](https://www.alura.com.br)
-- 🎓 Engenheiro de produção.
+- 🎓 Engenharia de produção.
 - 🎓 Matemática.
 - 🎤 Cantor sertanejo.
 - 📘 Professor.
