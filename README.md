@@ -9,6 +9,7 @@
 - 🎓 Matemática.
 - 🎤 Cantor sertanejo.
 - 📘 Professor.
+  
 ![](https://media1.tenor.com/m/3aCImrMYRX4AAAAC/corinthians.gif)
 
 <!---
