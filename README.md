@@ -9,10 +9,11 @@
 - 🎓 Matemática.
 - 🎤 Cantor sertanejo.
 - 📘 Professor.
-
-![](https://media.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif) _______________ ![](https://media1.tenor.com/m/3aCImrMYRX4AAAAC/corinthians.gif)
+![](https://media1.tenor.com/m/3aCImrMYRX4AAAAC/corinthians.gif)
 
 <!---
 site do gif - https://tenor.com/pt-BR/
+
+![](https://media.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif)
 ..
 --->
